@@ -9,6 +9,6 @@ deploy:
   provider: heroku
   api_key:
     secure: b3QbM5TDsfhLTO4xOyQA1bVeookyXViysTPT/HCe2nQFOtf0retdM+hzElRXPaFbP2pi/qpCesjhkA+o89fzXRp9RacjnfQOx1J2P+C9zlg/0Qtjtg62zsPIPQ3x3rR0sjT6kMMn7BRWkymnSiY91e6n+SpdYajChezHixFEW6f2NJidkZ7IQEdRoLXIZhekz8ol4QPXiML+kQXPHNhme2ps32iWUGQW2YgmcOLIK0fW4eOoUh02K+HXE03ArHCIYK5sy81z8iYfDqqcSHetspoF6VTXB5m3VrpCFOC8GrdahuzKctfVzxwfqGCdo9f9HhxelLgGPUbtsDZxTrTZ1+gpL+ZTq35uPnAdMggyM7yEn7OIsy7g2fBnIBNNQ/AKhCOf8BXELenKiSHJ9Tg1U+Lh+59/OydK2DE1/WiovDDalTPQZm2YwQ8OSAEyJLyVFc5wKVgfOk8iIseOAnFluxluDFH+wNhU/pPNuxS6OtVbE9GF/9gRody8zzAENNXU4K08XzGBYsI7wdX+s4GYsnl9uiLsQy2oOkBRJ/kQCrYIoAUyNuJkr4hb2P9a9zLOTR72tzFsTfEJqGkM2hKQvQJ5NDygVvu7Kb9eMTM3TrSIVlKBZ+J+LA3nWcqKuSf+2OwBQcoUeR6LCbfB8CESfzlO0oezisx0WbYjk3lI0fw=
-  app: react-trello-testing
+  app: tranquil-meadow-90412
   on:
     repo: hzba000/react-trello-testing
